@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "515184074822",
+    "project_id": "video-audio-chat-36ab0",
+    "storage_bucket": "video-audio-chat-36ab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515184074822:android:3e6173b006b7591eab6a47",
+        "android_client_info": {
+          "package_name": "com.mhk.chatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515184074822-e3vhmpqavgqjs8u1muktnqrm08kj6gfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhk.chatty",
+            "certificate_hash": "81c7170b8039d024b3d01a7918dcaac4ec84777f"
+          }
+        },
+        {
+          "client_id": "515184074822-k2559i6ij6d27912kphbdlvimu9inuan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAog4z3VEbWeyZ8mtNAS8voo4i5MpGx_-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515184074822-k2559i6ij6d27912kphbdlvimu9inuan.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515184074822-9ftrdha56u8gjpldlap43gtrip6qciak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.chatty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
